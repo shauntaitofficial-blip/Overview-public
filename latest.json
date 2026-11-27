@@ -1,0 +1,11 @@
+{
+    "build":  11,
+    "version":  "1.0.0",
+    "notes":  "Small maintenance update.",
+    "required":  true,
+    "windows":  {
+                    "file":  "Overview-Windows-11.zip",
+                    "size":  14355152,
+                    "sha256":  "46c5f374eb9456ea6076fea330bfdb845343272587e4c05d6662810b75a1b899"
+                }
+}
